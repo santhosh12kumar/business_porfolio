@@ -68,7 +68,7 @@ export function Footer() {
               </li>
               <li>
                 <a href="tel:+1234567890" className="text-muted-foreground hover:text-accent transition-colors">
-                  +1 (234) 567-890
+                  +91 000000000
                 </a>
               </li>
               <li className="text-muted-foreground">
@@ -81,7 +81,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © 2024 TechVision. All rights reserved.
+            © 2026 TechVision. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-muted-foreground hover:text-accent transition-colors text-sm">
